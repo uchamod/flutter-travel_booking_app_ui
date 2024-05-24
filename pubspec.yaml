@@ -84,7 +84,7 @@ flutter:
         - asset: fontassets/Roboto-Black.ttf
         - asset: fontassets/Roboto-Medium.ttf
         - asset: fontassets/Roboto-Italic.ttf
-        - asset: fontassets/Roboto-Thin.ttf
+        
 
     - family: Lato
       fonts:
