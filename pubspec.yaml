@@ -92,12 +92,7 @@ flutter:
         - asset: fontassets/Lato-Bold.ttf
       
 
-    - family: Montserrat
-      fonts:
-       # - asset: fontassets/Montserrat-Medium.ttf
-        - asset: fontassets/Montserrat-SemiBold.ttf
-        #- asset: fontassets/Montserrat-Regular.ttf
-        #- asset: fontassets/Montserrat-Light.ttf
+   
         
   #
   # For details regarding fonts from package dependencies,
